@@ -1,0 +1,1 @@
+# QEDT_GermanTranslation
