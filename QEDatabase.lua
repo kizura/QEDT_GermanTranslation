@@ -138,9 +138,8 @@ tipsMap = {
 	----- Die Andre Seite -----
 	[169769] = {{"Important", "Meister des Todes hat 3 mögliche Richtungen - auf die Arme achten. Links, Rechts, and 'Nahe' (die vordere Hälfte der Platform)."},
 				{"Important", "Den Boss genau beobachten: Nach links (rechter Arm hebt sich), nach rechts (linker Arm hebt sich) oder nach hinten (beide Arme heben sich)."},
-				{"Important", "Realitätszersplitterung – 2 DPS zu Kampfbeginn auf die linke Seite " ..
-				              "- dort erscheinen dann Portale - jeder in ein Portal rein und " ..
-							  "Zersplittertes Antlitz töten, dann Totem anklicken"},
+				{"Important", "Realitätszersplitterung – Es erscheinen Portale rechts und links vom Boss - sofort rein dort sonst sterbt ihr - dann " ..
+							  "Zersplittertes Antlitz töten und Totem anklicken"},
 				{"Important", "Boss stirbt bei 10%. Jedes getötete Add bringt 20% und gibt der Gruppe einen 30% Tempo Buff."}
 				}, -- Mueh'zala
 	[164450] = {{"Important", "Die Fallen auf dem Boden schleudern Euch in die Höhe. Reinlaufen, wenn:"},
@@ -185,8 +184,8 @@ tipsMap = {
 	[167964] = {{"Important", "Zufälliger Spieler erhält einen Kreis, dieser betäubt - weglaufen von anderen."}}, -- 4.RF-4.RF
 	[166608] = {{"Important", "Meister des Todes hat 3 mögliche Richtungen - auf die Arme achten. Links, Rechts, and 'Nahe' (die vordere Hälfte der Platform)."},
 				{"Important", "Den Boss genau beobachten: Nach links (rechter Arm hebt sich), nach rechts (linker Arm hebt sich) oder nach hinten (beide Arme heben sich)."},
-				{"Important", "Realitätszersplitterung – 2 DPS zu Kampfbeginn auf die linke Seite - dort erscheinen dann Portale - jeder in ein Portal rein und"},
-				{"Important", "Zersplittertes Antlitz töten, dann Totem anklicken"},
+				{"Important", "Realitätszersplitterung – Es erscheinen Portale rechts und links vom Boss - sofort rein dort sonst sterbt ihr - dann " ..
+							  "Zersplittertes Antlitz töten und Totem anklicken"},
 				{"Important", "Boss stirbt bei 10%. Jedes getötete Add bringt 20% und gibt der Gruppe einen 30% Tempo Buff."}
 				}, -- Mueh'zala
 				
