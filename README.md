@@ -4,7 +4,9 @@ https://www.curseforge.com/wow/addons/qe-dungeon-tips
 
 Deutsche Übersetzung zu den Texten für dieses AddOn - Version 5.2.
 
- Lousyplayer 2020-12
+Lousyplayer 2020-12
+
+Original QEDatabase.lua sichern und durch die Datei aus dem Repo ersetzen.
 
 Quellen: 
 
